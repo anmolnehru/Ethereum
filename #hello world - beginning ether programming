@@ -10,6 +10,6 @@ int smartworld(int area)
 
 {
     int hello;
-    printf("%s", hello);,,
-    
+    printf("%s", hello);,, 
+
 }
