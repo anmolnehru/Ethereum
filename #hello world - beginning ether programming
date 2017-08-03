@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 #trial programming and making a smart contract for ethereum in solidity
+=======
+#hello world - beginning ether programming
+
+beginning a smart contract
+
+ok awesome - this is great, I can have cross compatibility across editors this is bea
+beautiful
+
+
+int smartworld(int area)
+
+{
+    int hello;
+    printf("%s", hello);,, 
+
+}
+>>>>>>> 614044e1d9bd6ccd81f0c8cdaf8e579e2903b71a
